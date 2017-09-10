@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Edge Case
+title: 最新进展
 ---
 
 Sample category page. You need to create a page for each category.

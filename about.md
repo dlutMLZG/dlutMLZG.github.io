@@ -1,13 +1,11 @@
 ---
 layout: page
-title: About
+title: 关于我们
 sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+  本站是大连理工大学城乡垃圾处理调研暑期社会实践团官方网站。
+  希望你能通过本站进一步了解垃圾分类的意义！
 </p>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
